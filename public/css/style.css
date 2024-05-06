@@ -756,6 +756,15 @@ fieldset {
     color: #425BB5;
 }
 
+.css-rr6z0l {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 20px; /* 타원 형태로 표시하기 위한 border-radius 설정 */
+    background-color: #e0e0e0; /* 배경색 설정 */
+    margin: 5px; /* 요소 간 간격 조정 */
+    text-align: center; /* 텍스트 가운데 정렬 */
+}
+
 
 /* Responsive media queries
 ==================================================*/
